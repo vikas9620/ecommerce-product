@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: rgb(175, 207, 236);
+ width: 100vh;
+    margin: 0 auto ;
+    justify-content: center;
+   align-items: center;
+   text-align: center;
+   font-size: 25px;
+   font-weight: 600;
+
+  }
+ 
